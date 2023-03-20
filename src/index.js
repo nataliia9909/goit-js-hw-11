@@ -1,7 +1,7 @@
 import './sass/index.scss';
 
 import NewsApiService from './api-service';
-import lightbox from './simlelightbox';
+import { lightbox } from './simlelightbox';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 
